@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.parentContainer{
+    height: 100vh;
+    /* position: fixed; */
+    width: 100vw;
+    overflow: scroll;
+}
